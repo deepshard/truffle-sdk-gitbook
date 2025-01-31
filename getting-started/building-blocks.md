@@ -11,7 +11,7 @@ accomplish the intent behind the user’s prompt. To accomplish the goal, the
 For our example, we can imagine the Agent comparing the prompt to its
 understanding of each **App** and selecting the one which seems the most apt:
 
-[user providing prompt](prompt.png)
+![](prompt.png)
 
 ## Step 2: Agent selects and uses Tools to accomplish goal
 
@@ -20,6 +20,7 @@ store intermediate work. When an Agent selects an App, it receives an inventory
 of Tools—the software functions—and it then executes a plan to accomplish the
 goal. 
 
+![Agent_plan_tools.png]
 
 ## Step 3: Agent returns Deliverable
 
