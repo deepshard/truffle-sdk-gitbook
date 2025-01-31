@@ -11,6 +11,7 @@ accomplish the intent behind the user’s prompt. To accomplish the goal, the
 For our example, we can imagine the Agent comparing the prompt to its
 understanding of each **App** and selecting the one which seems the most apt:
 
+[user providing prompt](prompt.png)
 
 ## Step 2: Agent selects and uses Tools to accomplish goal
 

@@ -20,6 +20,9 @@ layout:
 
 # Get the Truffle App and the Truffle SDK
 
+```
+pip install truffle-sdk
+```
 
 
 
