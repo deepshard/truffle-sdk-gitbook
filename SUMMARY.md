@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [The Basics of Truffle](getting-started/building-blocks.md)
 * [Quickstart](getting-started/quickstart.md)
 
 ## Basics
