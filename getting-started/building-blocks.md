@@ -20,7 +20,7 @@ store intermediate work. When an Agent selects an App, it receives an inventory
 of Tools—the software functions—and it then executes a plan to accomplish the
 goal. 
 
-![Agent_plan_tools.png]
+![](Agent_plan_tools.png)
 
 ## Step 3: Agent returns Deliverable
 

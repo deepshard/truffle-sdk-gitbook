@@ -20,7 +20,9 @@ layout:
 
 # Get the Truffle App and the Truffle SDK
 
-```
+We offer our CLI tooling and a mock of our core APIs within our SDK via the Python Package Index
+
+```sh 
 pip install truffle-sdk
 ```
 
